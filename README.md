@@ -11,7 +11,7 @@ I enjoy turning messy business data into clear, actionable insights using tools 
 - 🎓 Currently studying:
   - **Diploma in Data Analytics** (Mission Ready)
 - 💼 Experience across **legal, estates administration, sales reporting, procurement, and operations**
-- 🎯 Goal: Data / Business Analyst roles
+- 🎯 Goal: Data, Business/ Legal Analyst roles
 
 ---
 

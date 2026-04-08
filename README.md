@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Perpetual Milne-Rodrigues 👋
 
-<!--
-**pepeanalyzing/pepeanalyzing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Data Analyst** with a background in **legal administration, business operations, and sales reporting**.  
+I enjoy turning messy business data into clear, actionable insights using tools like **SQL, Power BI, Excel, and Microsoft Fabric**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+
+- 📍 Based in **Napier, New Zealand**
+- 🎓 Currently studying:
+  - **Diploma in Data Analytics** (Mission Ready)
+  - **Certificate in Information Technology Level 5** (Open Polytechnic)
+- 💼 Experience across **legal, estates administration, sales reporting, procurement, and operations**
+- 🎯 Goal: Data / Business Analyst roles in New Zealand organisations
+
+---
+
+## 🛠️ Tech & Tools
+
+- **Data & BI:** SQL, Power BI, Excel (Pivot Tables, Power Query), Microsoft Fabric  
+- **Programming:** Python (developing proficiency)  
+- **Business & Ops:** Bookkeeping, GST reporting, sales analysis, process optimisation  
+
+---
+
+## 💼 Professional Experience (Snapshot)
+
+- **Estates Secretary – Carlile Dowling Lawyers Ltd (NZ)**  
+  Managed 50+ estate files, maintained accurate client data, and produced reports for IRD and LINZ.
+
+- **Administrator – Capstone Consultancy (NZ)**  
+  Built Power BI dashboards for weekly sales, analysed trends, and prepared monthly royalty reports.
+
+- **Chief Development Officer – Henry’s Dynatex Trading Stores (Nigeria)**  
+  Led market and supplier analysis, managed supply chain data, and supported strategic planning.
+
+- **Administrative & Procurement Manager – Foresight Computer Technology (Nigeria)**  
+  Monitored inventory and budget data, improved processes, and produced KPI-based management reports.
+
+---
+
+## 📊 Data & Analytics Projects
+
+> Coming soon: GitHub repositories showcasing:
+> - Sales and operations dashboards  
+> - Exploratory data analysis (EDA) in Python  
+> - Power BI reports and Excel-based analysis  
+
+---
+
+## 📫 Connect
+
+- **LinkedIn:** (https://www.linkedin.com/in/pepe-milne-rodrigues/)
+- **Location:** Napier, New Zealand
+

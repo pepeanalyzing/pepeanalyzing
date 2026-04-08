@@ -26,10 +26,10 @@ I enjoy turning messy business data into clear, actionable insights using tools 
 ## 💼 Professional Experience (Snapshot)
 
 - **Estates Secretary – Carlile Dowling Lawyers Ltd (NZ)**  
-  Managed 50+ estate files, maintained accurate client data, and produced reports for IRD and LINZ.
+  Managed estate files, maintained accurate client data, and produced reports for IRD and LINZ.
 
 - **Administrator – Capstone Consultancy (NZ)**  
-  Built Power BI dashboards for weekly sales, analysed trends, and prepared monthly royalty reports.
+  Analysed Power BI dashboards for weekly sales, analysed trends, and prepared monthly royalty reports.
 
 - **Chief Development Officer – Henry’s Dynatex Trading Stores (Nigeria)**  
   Led market and supplier analysis, managed supply chain data, and supported strategic planning.

@@ -31,7 +31,7 @@ I enjoy turning messy business data into clear, actionable insights using tools 
 - **Administrator – Capstone Consultancy (NZ)**  
   Analysed Power BI dashboards for weekly sales, analysed trends, and prepared monthly royalty reports.
 
-- **Chief Development Officer – Henry’s Dynatex Trading Stores (Nigeria)**  
+- **Chief Development Officer – Ifeanyi Onyejese Trading Stores (Nigeria)**  
   Led market and supplier analysis, managed supply chain data, and supported strategic planning.
 
 - **Administrative & Procurement Manager – Foresight Computer Technology (Nigeria)**  
